@@ -1,59 +1,58 @@
-# CS 185/285 课程资料
+# CS 185/285 Course Resources
 
-来源：https://rail.eecs.berkeley.edu/deeprlcourse/
+[Course website](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
-下载范围：课程主页直接链接的全部 PDF；保留原始文件名。course_page.html 是主页快照。
+## Lecture Slides
 
-- slides/：课程讲义
-- sections/：讨论课资料
-- homeworks/：作业及项目作业说明
-- misc/：期末项目说明
+- [Lecture 1](slides/lec-1.pdf)
+- [Lecture 2](slides/lec-2.pdf)
+- [Lecture 3](slides/lec-3.pdf)
+- [Lecture 4](slides/lec-4.pdf)
+- [Lecture 5](slides/lec-5.pdf)
+- [Lecture 6](slides/lec-6.pdf)
+- [Lecture 7](slides/lec-7.pdf)
+- [Lecture 8](slides/lec-8.pdf)
+- [Lecture 9](slides/lec-9.pdf)
+- [Lecture 10](slides/lec-10.pdf)
+- [Lecture 11](slides/lec-11.pdf)
+- [Lecture 12](slides/lec-12.pdf)
+- [Lecture 13](slides/lec-13.pdf)
+- [Lecture 14](slides/lec-14.pdf)
+- [Lecture 15](slides/lec-15.pdf)
+- [Lecture 16](slides/lec-16.pdf)
+- [Lecture 17](slides/lec-17.pdf)
+- [Lecture 18](slides/lec-18.pdf)
+- [Lecture 19](slides/lec-19.pdf)
+- [Lecture 20](slides/lec-20.pdf)
+- [Lecture 21](slides/lec-21.pdf)
+- [Lecture 22](slides/lec-22.pdf)
+- [Lecture 23](slides/lec-23.pdf)
+- [Lecture 24](slides/lec-24.pdf)
+- [Lecture 25](slides/lec-25.pdf)
 
-下载结果：43 份 PDF 成功；`homeworks/project_assignment.pdf` 原站返回 HTTP 404，未下载。期末项目的另外三份说明已下载至 misc/。
+## Discussion Sections
 
-## 文件及来源
+- [Section 1](sections/section-1.pdf)
+- [Section 2-1](sections/section-2-1.pdf)
+- [Section 2-2](sections/section-2-2.pdf)
+- [Section 3](sections/section-3.pdf)
+- [Section 4](sections/section-4.pdf)
+- [Section 5](sections/section-5.pdf)
+- [Section 6](sections/section-6.pdf)
+- [Section 7](sections/section-7.pdf)
+- [Section 8](sections/section-8.pdf)
+- [Section 9](sections/section-9.pdf)
 
-- [homeworks/hw1.pdf](homeworks/hw1.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw1.pdf
-- [homeworks/hw2.pdf](homeworks/hw2.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw2.pdf
-- [homeworks/hw3.pdf](homeworks/hw3.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw3.pdf
-- [homeworks/hw4.pdf](homeworks/hw4.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw4.pdf
-- [homeworks/hw5.pdf](homeworks/hw5.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw5.pdf
-- 下载失败（HTTP 404）：https://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/project_assignment.pdf
-- [misc/final_project_outline.pdf](misc/final_project_outline.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/misc/final_project_outline.pdf
-- [misc/llm_rl_default_final_project.pdf](misc/llm_rl_default_final_project.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/misc/llm_rl_default_final_project.pdf
-- [misc/offline_to_online_rl_default_final_project.pdf](misc/offline_to_online_rl_default_final_project.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/misc/offline_to_online_rl_default_final_project.pdf
-- [sections/section-1.pdf](sections/section-1.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-1.pdf
-- [sections/section-2-1.pdf](sections/section-2-1.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-2-1.pdf
-- [sections/section-2-2.pdf](sections/section-2-2.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-2-2.pdf
-- [sections/section-3.pdf](sections/section-3.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-3.pdf
-- [sections/section-4.pdf](sections/section-4.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-4.pdf
-- [sections/section-5.pdf](sections/section-5.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-5.pdf
-- [sections/section-6.pdf](sections/section-6.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-6.pdf
-- [sections/section-7.pdf](sections/section-7.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-7.pdf
-- [sections/section-8.pdf](sections/section-8.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-8.pdf
-- [sections/section-9.pdf](sections/section-9.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/sections/section-9.pdf
-- [slides/lec-10.pdf](slides/lec-10.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-10.pdf
-- [slides/lec-11.pdf](slides/lec-11.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-11.pdf
-- [slides/lec-12.pdf](slides/lec-12.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-12.pdf
-- [slides/lec-13.pdf](slides/lec-13.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-13.pdf
-- [slides/lec-14.pdf](slides/lec-14.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-14.pdf
-- [slides/lec-15.pdf](slides/lec-15.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-15.pdf
-- [slides/lec-16.pdf](slides/lec-16.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-16.pdf
-- [slides/lec-17.pdf](slides/lec-17.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-17.pdf
-- [slides/lec-18.pdf](slides/lec-18.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-18.pdf
-- [slides/lec-19.pdf](slides/lec-19.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-19.pdf
-- [slides/lec-1.pdf](slides/lec-1.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-1.pdf
-- [slides/lec-20.pdf](slides/lec-20.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-20.pdf
-- [slides/lec-21.pdf](slides/lec-21.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-21.pdf
-- [slides/lec-22.pdf](slides/lec-22.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-22.pdf
-- [slides/lec-23.pdf](slides/lec-23.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-23.pdf
-- [slides/lec-24.pdf](slides/lec-24.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-24.pdf
-- [slides/lec-25.pdf](slides/lec-25.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-25.pdf
-- [slides/lec-2.pdf](slides/lec-2.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-2.pdf
-- [slides/lec-3.pdf](slides/lec-3.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-3.pdf
-- [slides/lec-4.pdf](slides/lec-4.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-4.pdf
-- [slides/lec-5.pdf](slides/lec-5.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-5.pdf
-- [slides/lec-6.pdf](slides/lec-6.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-6.pdf
-- [slides/lec-7.pdf](slides/lec-7.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-7.pdf
-- [slides/lec-8.pdf](slides/lec-8.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-8.pdf
-- [slides/lec-9.pdf](slides/lec-9.pdf) — https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-9.pdf
+## Homework
+
+- [Homework 1](homeworks/hw1.pdf)
+- [Homework 2](homeworks/hw2.pdf)
+- [Homework 3](homeworks/hw3.pdf)
+- [Homework 4](homeworks/hw4.pdf)
+- [Homework 5](homeworks/hw5.pdf)
+
+## Final Project
+
+- [Project Outline](misc/final_project_outline.pdf)
+- [Reinforcement Learning for LLMs](misc/llm_rl_default_final_project.pdf)
+- [Offline-to-Online Reinforcement Learning](misc/offline_to_online_rl_default_final_project.pdf)
