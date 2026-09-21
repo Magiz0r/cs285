@@ -1,1 +1,1 @@
-cs285 from uc berkeley
+cs285 spring 2026 from uc berkeley
